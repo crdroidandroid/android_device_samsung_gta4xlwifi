@@ -1,0 +1,10 @@
+[
+    {
+        "repository": "crdroidandroid/android_device_samsung_gta4xl-common",
+        "target_path": "device/samsung/gta4xl-common"
+    },
+    {
+        "repository": "crdroidandroid/android_vendor_samsung_gta4xlwifi",
+        "target_path": "vendor/samsung/gta4xlwifi"
+    }
+]
